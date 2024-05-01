@@ -60,7 +60,7 @@ Learn how to create enterprise and production ready Microservices with Spring, S
 - Stripe RateLimitter pattern blog - https://stripe.com/blog/rate-limiters
 - Apache Benchmark website - https://httpd.apache.org
 - Grafana website - https://grafana.com
-- Grafana Loki setup - https://grafana.com/docs/loki/latest/getting-started/
+- Grafana Loki setup - https://grafana.com/docs/loki/latest/get-started/quick-start/
 - Micrometer website - https://micrometer.io
 - Prometheus website - https://prometheus.io/
 - Grafana Dashboards - https://grafana.com/grafana/dashboards/
