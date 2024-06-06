@@ -28,9 +28,9 @@ management:
       exposure:
         include: "*"
   health:
-    readiness-state:
+    readinessstate:
       enabled: true
-    liveness-state:
+    livenessstate:
       enabled: true
   endpoint:
     health:
