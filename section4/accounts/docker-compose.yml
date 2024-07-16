@@ -1,3 +1,4 @@
+name: eazybank
 services:
   accounts:
     image: "eazybytes/accounts:s4"
